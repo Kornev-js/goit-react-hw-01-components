@@ -15,7 +15,8 @@
       "id": "44dca67a-8e5a-4798-bf8e-b15efd4e1abd",
       "type": "invoice",
       "amount": "828.62",
-      "currency": "UGX"
+      "currency": "UGX",
+      "hello": "hi"
     },
     {
       "id": "ea8ed3dc-2b68-4a53-905a-53ecb0adef33",
